@@ -1,0 +1,2 @@
+# JavaFizzBuzz
+JavaでFizz Buzz
